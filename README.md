@@ -111,3 +111,14 @@ Memberikan efek random kepada target:
 - Blindness — 5 detik
 - Glowing — 8 detik
 - Jump Boost III — 5 detik
+
+
+  Other
+InvisibleKill
+Dibunuh player dengan Potion Invisibility maka nickname nya tidak terlihat
+
+DangerZone
+
+KillStreak
+
+Assassin Contract
