@@ -113,7 +113,8 @@ Memberikan efek random kepada target:
 - Jump Boost III — 5 detik
 
 
-  Other
+  Lainnya
+  
 InvisibleKill
 Dibunuh player dengan Potion Invisibility maka nickname nya tidak terlihat
 
