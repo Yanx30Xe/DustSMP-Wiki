@@ -226,8 +226,6 @@ Efek:
 - Arrow memiliki efek End Rod
 - Saat mencapai target:
   - Sonic Boom
-  - Explosion Particle
-  - Damage besar
 
 ---
 
@@ -260,3 +258,7 @@ DangerZone
 KillStreak
 
 Assassin Contract
+
+VoiceChat
+
+RecallStone
