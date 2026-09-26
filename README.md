@@ -258,7 +258,14 @@ DangerZone
 KillStreak
 
 Assassin Contract
+Assassin contract buat kamu gampang menyuruh assassin untuk membunuh orang yg kamu targeti. /assassin untuk info lanjutan
 
 VoiceChat
 
 RecallStone
+
+Recallstone adalah semacam sethome tapi menggunakan item.
+
+Farlands
+
+Farlands adalah bug minecraft di versi 1.7.3, farlands di hapus di versi 1.8 dan di server ini 1.21.11 memunculkan kembali farlands
