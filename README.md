@@ -269,3 +269,8 @@ Recallstone adalah semacam sethome tapi menggunakan item.
 Farlands
 
 Farlands adalah bug minecraft di versi 1.7.3, farlands di hapus di versi 1.8 dan di server ini 1.21.11 memunculkan kembali farlands
+
+
+Custom Item
+
+Custom item adalah senjata kustom yang berbeda dari vanilla
