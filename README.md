@@ -1,252 +1,370 @@
 # DustSMP-Wiki
-DustSmP Wiki Btw
 
+DustSMP Ultimate System
 
+Cara Menggunakan Ultimate
 
-DustSMP — Role Wiki
-
-🃏 Jester
-
-Role yang mengandalkan ilusi, pengelabuan, dan mengacaukan lawan.
-
-Skill 1 — Invisibility
-
-Aktivasi: Shift + Right Click
-Syarat: Wajib mengarahkan ke Block
-Cooldown: 30 detik
-
-Mengaktifkan Invisibility dan membuat Jester tidak terlihat oleh player lain.
-
-Efek:
-
-- Invisibility
-- Jester disembunyikan dari player lain
-- Efek Smoke dan Witch Particle
-
-Skill 2 — Hypnosis
-
-Aktivasi: Shift + Left Click Player
-Cooldown: 35 detik
-
-Menghipnotis player yang menjadi target.
-
-Efek:
-
-- Target tidak dapat bergerak
-- Arah pandangan target dikunci
-- Durasi hypnosis: 5 detik
-- Setelah hypnosis selesai, target terkena Nausea dan Blindness selama 20 detik
+   Shift + Right Click → Left Click
 
 ---
 
-🦸 Hero
+1. ☄️ Meteor Crash
 
-Role yang berfokus pada pertahanan dan support.
+Tipe
 
-Skill 1 — Heroic Guard
+Area Damage / Impact
 
-Aktivasi: Shift + Right Click
-Cooldown: 30 detik
+Mekanik
 
-Mengaktifkan mode pertahanan Hero.
+Pengguna diluncurkan ke udara.
 
-Efek:
+Setelah 3 detik, pengguna jatuh dengan cepat menuju permukaan.
 
-- Resistance II
-- Durasi: 6 detik
-- Damage dari player dikurangi 50%
-- Efek Electric Spark
+Ketika mendarat:
 
-Skill 2 — Hero Rescue
+- Radius efek: 10 blok
+- Radius 0–5 blok dari titik impact:
+  - Damage: 14 HP
+- Radius 5–10 blok:
+  - Damage: 10 HP
 
-Aktivasi: Shift + Left Click Player
-Cooldown: 35 detik
+Cooldown
 
-Hero berpindah ke posisi target dan memulihkan kesehatan.
-
-Efek:
-
-- Teleport ke target
-- Hero mendapatkan 2 Hearts
-- Target mendapatkan 4 Hearts
-- Keduanya mendapatkan Regeneration II selama 5 detik
-- Efek Heart dan Happy Villager
+130 detik
 
 ---
 
-💀 Impossible
+2. 🌀 Gravity Collapse
 
-Role dengan kemampuan memanipulasi posisi dan menghindari serangan.
+Tipe
 
-Skill 1 — Phase Shift
+Area Control / Explosion
 
-Aktivasi: Shift + Right Click
-Cooldown: 35 detik
+Mekanik
 
-Memasuki mode Phase.
+Pengguna menciptakan pusat gravitasi di lokasinya.
 
-Efek:
+Semua player dan mob dalam radius 10 blok akan tertarik menuju pengguna.
 
-- Speed II
-- Durasi: 10 detik
-- Serangan player terhadap Impossible tidak memberikan damage
-- Efek Portal dan Reverse Portal
+Selama 3 detik:
 
-Skill 2 — Reverse
+- Target terus ditarik menuju pusat.
 
-Aktivasi: Shift + Left Click Player
-Cooldown: 40 detik
+Setelah 3 detik, Gravity Collapse meledak.
 
-Menukar posisi Impossible dengan target.
+Explosion
 
-Efek:
+- Radius: 10 blok
+- Damage: 16 HP
 
-- Posisi kedua player ditukar
-- Target terkena Slowness II selama 3 detik
-- Efek Portal dan Reverse Portal
+Cooldown
+
+130 detik
 
 ---
 
-😡 Ragebaiter
+3. ⏱️ Time Stop
 
-Role yang membuat lawan kehilangan kendali dan menghukum player yang menyerangnya.
+Tipe
 
-Skill 1 — Rage
+Time Control
 
-Aktivasi: Shift + Right Click
-Cooldown: 30 detik
+Durasi
 
-Masuk ke mode Rage.
+6 detik
 
-Efek:
+Mekanik
 
-- Strength II
-- Speed II
-- Durasi: 8 detik
-- Player yang menyerang Ragebaiter terkena Weakness I dan Slowness I selama 3 detik
-- Efek Angry Villager dan Flame
+Pengguna menghentikan waktu di area sekitar.
 
-Skill 2 — Counter Trap
+Radius efek: 15 blok
 
-Aktivasi: Shift + Left Click Player
-Cooldown: 40 detik
+Selama Time Stop:
 
-Memasang jebakan counter pada target.
+- Player lain tidak dapat bergerak.
+- Mob tidak dapat bergerak.
+- Projectile di dalam area ikut berhenti.
+- Pengguna tetap dapat bergerak secara normal.
 
-Efek:
+Setelah 6 detik, waktu kembali normal.
 
-- Target dapat memicu trap saat menyerang Ragebaiter
-- Maksimal 2 kali trigger
-- Attacker terkena:
-  - Slowness IV
-  - Weakness II
-  - Blindness II
-  - Resistance I
-  - Nausea II
-  - Darkness I
-- Semua debuff berlangsung 10 detik
+Cooldown
+
+130 detik
 
 ---
 
-👑 King
+4. ⚔️ One Slash
 
-Role yang memiliki kemampuan mengendalikan lawan dan memperkuat dirinya sendiri serta pemain di sekitarnya.
+Tipe
 
-Skill 1 — Royal Command
+Single Target / Execution
 
-Aktivasi: Shift + Right Click Player
-Cooldown: 35 detik
+Mekanik
 
-Memberikan perintah kerajaan kepada target.
+Pengguna harus mengarahkan crosshair ke target.
 
-Efek:
+Target dapat berupa:
 
-- Target tidak dapat bergerak
-- Slowness 255
-- Weakness I
-- Durasi: 4 detik
-- Efek End Rod
+- Player
+- Mob
 
-Skill 2 — King's Aura
+Jika target terkena:
 
-Aktivasi: Shift + Left Click
-Cooldown: 45 detik
+- Damage: 16 HP
+- Muncul efek partikel merah pada target.
+- Memainkan suara yang menyeramkan.
 
-Mengaktifkan aura kerajaan yang memperkuat King dan player di sekitarnya.
+Miss
 
-Efek King:
+Jika pengguna tidak mengenai target:
 
-- Resistance I
-- Strength I
-- Durasi: 8 detik
+- Ultimate langsung berakhir.
+- Tidak ada damage.
+- Cooldown 130 detik tetap berlaku.
 
-Efek Player sekitar:
+Cooldown
 
-- Radius: 8 block
-- Speed I
-- Regeneration I
-- Durasi: 8 detik
-
-Efek visual:
-
-- Totem of Undying
-- Heart Particle
+130 detik
 
 ---
 
-🤡 Clown
+5. 🪽 SkyBomb
 
-Role dengan kemampuan yang tidak dapat diprediksi dan efek yang absurd.
+Tipe
 
-Skill 1 — Clown Roulette
+Mobility / Area Damage
 
-Aktivasi: Shift + Right Click
-Cooldown: 40 detik
+Mekanik
 
-Mengaktifkan mode Clown Roulette.
+Pengguna diluncurkan sekitar 10 blok ke udara.
 
-Efek:
+Target lokasi ditentukan berdasarkan crosshair pengguna.
 
-- Strength III
-- Speed III
-- Durasi: 15 detik
-- Note Particle
-- Happy Villager Particle
+Target dapat berupa:
 
-Skill 2 — Homing Arrow
+- Block
+- Player
 
-Aktivasi: Shift + Left Click Player
-Cooldown: 60 detik
+Pengguna kemudian meluncur/jatuh menuju lokasi tersebut.
 
-Menembakkan panah yang mengejar target.
+Saat mendarat:
 
-Efek:
+- Terjadi efek ledakan.
+- Radius: 5 blok
+- Damage: 10 HP
 
-- Arrow akan mengejar target
-- Arrow memiliki efek End Rod
-- Saat mencapai target:
-  - Sonic Boom
+Cooldown
+
+130 detik
 
 ---
 
-⚔️ Skill Controls
+6. ⚔️ Swordfall
 
-Input| Fungsi
-Shift + Right Click| Skill 1
-Shift + Left Click| Skill 2
-Jester Skill 1| Wajib mengarah ke Block
-Role lainnya Skill 1| Tidak wajib mengarah ke Block
-Skill 2 yang membutuhkan target| Wajib mengarahkan crosshair ke Player
+Tipe
 
-⏱️ Cooldown
+Area Damage
 
-Cooldown setiap skill ditampilkan otomatis melalui Action Bar:
+Mekanik
 
-"[ 1 ] Aktif | [ 2 ] Aktif"
+Sebuah Netherite Sword raksasa muncul dari atas.
 
-Saat skill sedang cooldown:
+Pedang mengarah ke bawah dan jatuh dari ketinggian sekitar 6 blok.
 
-"[ 1 ] Cooldown 19s | [ 2 ] Aktif"
+Saat pedang menghantam tanah:
+
+- Radius: 10 blok
+- Damage: 16 HP
+
+Cooldown
+
+130 detik
+
+---
+
+7. 🐉 Dragon Beam
+
+Tipe
+
+Beam / Continuous Damage
+
+Durasi
+
+7 detik
+
+Mekanik
+
+Pengguna mengeluarkan beam energi berwarna ungu.
+
+
+Beam diarahkan sesuai arah crosshair pengguna.
+
+Damage
+
+Setiap hit beam memberikan:
+
+2 HP
+
+Beam terus aktif selama:
+
+7 detik
+
+Cooldown
+
+130 detik
+
+---
+
+8. 🐉 Dragon Portal
+
+Tipe
+
+Summon / Projectile
+
+Mekanik
+
+Pengguna melakukan gerakan seperti mengayunkan kedua tangan.
+
+Sebuah portal berwarna ungu muncul di belakang pengguna.
+
+Setelah charge selesai:
+
+- Seekor Ender Dragon keluar dari portal.
+
+Durasi
+
+Dragon menghilang setelah:
+
+10 detik
+
+Dragon akan langsung menghilang, bukan dibiarkan hidup setelah Ultimate selesai.
+
+Cooldown
+
+130 detik
+
+---
+
+9. 😡 RageBaitens
+
+Tipe
+
+Crowd Control
+
+Target
+
+Player
+
+Mekanik
+
+Pengguna harus mengarahkan crosshair ke player target.
+
+Target kemudian:
+
+1. Dilempar ke atas sekitar 20 blok.
+2. Dipaksa jatuh.
+3. Setelah jatuh, dilempar ke atas lagi.
+4. Dipaksa jatuh kembali.
+5. Proses tersebut diulang sebanyak 6 kali.
+
+Efeknya membuat target seperti dibanting naik-turun secara cepat.
+
+Fall Damage
+
+Target tetap dapat menerima fall damage.
+
+Total
+
+6 kali launch → fall
+
+Cooldown
+
+130 detik
+
+---
+
+10. 🔄 Teleport Loop
+
+Tipe
+
+Mobility / PvP
+
+Target
+
+Player
+
+Aktivasi
+
+Pengguna harus mengarahkan crosshair ke player target ketika mengaktifkan Ultimate.
+
+Target tersebut kemudian dikunci sebagai target Teleport Loop.
+
+Durasi
+
+20 detik
+
+Countdown 20 detik dimulai langsung ketika Ultimate aktif.
+
+Selama durasi tersebut:
+
+- Pengguna menyerang target.
+- Setiap hit yang berhasil membuat pengguna berpindah ke sisi lain target.
+- Hit berikutnya membuat pengguna berpindah lagi ke sisi berlawanan.
+- Proses dapat dilakukan berulang kali selama 20 detik.
+- Setiap teleport menghasilkan efek partikel ungu.
+
+Contoh
+
+Hit → teleport ke belakang target
+
+Hit lagi → teleport ke sisi berlawanan
+
+Hit lagi → berpindah lagi
+
+Dan seterusnya sampai timer 20 detik selesai.
+
+Setelah 20 detik:
+
+- Teleport Loop berhenti.
+- Hit berikutnya tidak lagi memicu teleport.
+
+Cooldown
+
+130 detik
+
+---
+
+Ultimate Cooldown
+
+Semua Ultimate memiliki cooldown:
+
+130 detik
+
+Cooldown dimulai setelah Ultimate digunakan.
+
+Untuk Ultimate yang gagal seperti One Slash, cooldown tetap berjalan.
+
+---
+
+Ultimate List
+
+Ultimate| Tipe| Durasi
+☄️ Meteor Crash| Area Damage| 3 detik charge
+🌀 Gravity Collapse| Area Control| 3 detik
+⏱️ Time Stop| Time Control| 6 detik
+⚔️ One Slash| Single Target| Instant
+🪽 SkyBomb| Mobility / Area| Instant
+⚔️ Swordfall| Area Damage| Instant
+🐉 Dragon Beam| Beam| 7 detik
+🐉 Dragon Portal| Summon| 10 detik
+😡 RageBaitens| Crowd Control| 6 cycles
+🔄 Teleport Loop| Mobility / PvP| 20 detik
+
+Cooldown Global
+
+130 detik per Ultimate
+
 
   Lainnya
   
