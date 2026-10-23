@@ -369,6 +369,7 @@ Cooldown Global
   Lainnya
   
 InvisibleKill
+
 Dibunuh player dengan Potion Invisibility maka nickname nya tidak terlihat
 
 DangerZone
@@ -376,19 +377,16 @@ DangerZone
 KillStreak
 
 Assassin Contract
+
 Assassin contract buat kamu gampang menyuruh assassin untuk membunuh orang yg kamu targeti. /assassin untuk info lanjutan
 
 VoiceChat
-
-RecallStone
-
-Recallstone adalah semacam sethome tapi menggunakan item.
 
 Farlands
 
 Farlands adalah bug minecraft di versi 1.7.3, farlands di hapus di versi 1.8 dan di server ini 1.21.11 memunculkan kembali farlands
 
 
-Custom Item
+3 life
 
-Custom item adalah senjata kustom yang berbeda dari vanilla
+Jika 3 kali mati,kamu akan terkena ban 1 jam
